@@ -199,10 +199,9 @@ python2 server.py
 
 https://www.cryptoexamples.com
 
-
-
-
-
+![地址栏]（https://github.com/baibinghere/cryptography/blob/master/readme_pictures/FirstLook.PNG）
+![证书首页](https://github.com/baibinghere/cryptography/blob/master/readme_pictures/Certificate_General.PNG)
+![证书链](https://github.com/baibinghere/cryptography/blob/master/readme_pictures/Certificate_Path.PNG)
 
 
 ## 其它
