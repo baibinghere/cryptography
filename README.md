@@ -195,7 +195,14 @@ python2 server.py
 * 在Windows中，修改c:\windows\system32\drivers\etc\hosts
 * 在Linux中，修改/etc/hosts
 
-1. 在浏览器中访问https://www.cryptoexamples.com，顺利访问。
+1. 在浏览器中顺利访问：
+
+https://www.cryptoexamples.com
+
+
+
+
+
 
 
 ## 其它
