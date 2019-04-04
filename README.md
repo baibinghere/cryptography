@@ -8,7 +8,7 @@
 openssl version -a
 ```
 
-* 生成随机N位素数
+* 生成随机N位(2进制)素数
 
 ```bash
 openssl prime -generate -bits 64
